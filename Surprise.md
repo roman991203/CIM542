@@ -11,7 +11,7 @@ For the sculpture, I use illustrator to cut the shape of eyes, mouse and nose on
 ![Paper Pumpkin]( https://github.com/roman991203/CIM542/blob/master/imgs/IMG_0570.JPG)
 ![Paper Pumpkin Top]( https://github.com/roman991203/CIM542/blob/master/imgs/IMG_0571.JPG)
 
-## [Code](/arduino/lightPattern/lightPattern.ino)
+## [Code](https://github.com/roman991203/CIM542/blob/master/Codes/Project1/Project1.ino)
 
 I use the blinking system to represent the emotion of surprising.
 
