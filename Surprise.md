@@ -2,9 +2,7 @@
 
 The goal of this project is to represent ‘surprise’ emotion. To show about ‘surprise’ emotion, I use Cricut to build a pumpkin in Halloween. And then I cut a star shape for the top of the pumpkin. 
 
-## Final Video
-
-![Final Video](https://s23.aconvert.com/convert/p3r68-cdx67/uaguy-au5th.gif)
+## [Final video](https://s23.aconvert.com/convert/p3r68-cdx67/uaguy-au5th.gif)
 
 ## Sculpture
 
