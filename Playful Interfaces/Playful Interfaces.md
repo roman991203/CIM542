@@ -15,7 +15,7 @@ For the Sculpture, I am trying to use Tinkercad to make a 3D model for my tumble
 ![3D model front]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/front.png)
 ![3D model back]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/back.png)
 ![3D model right]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/right.png)
-![3D model left https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/left.png)
+![3D model left ](https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/left.png)
 
 
 ## Code
