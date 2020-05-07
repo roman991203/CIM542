@@ -1,42 +1,41 @@
 # Cat Helping Tapping Robot – Helping Robots
 
 ## Inspiration
-For this project, we are going to design a playful interfaces toy. But because of losing kits in classroom and Covid-19, I am struggling at home about how to do this project. And one day when I eat Pringles potato crisps, watching at its logo on brand, I got an idea.
-![inspiration](https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/inspiration.JPG)
+In our daily life, we always use our mobile phones by tapping on the screen. And there are also a lot of games based on tapping. Like Tap Titans and so on. However, it is a hard-working of a lot of tapping on phones and games. So I am trying to do a robot to help us tap on screen quickly to finish the task.
+![inspiration]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/Tap.jpg)
 
 
 ## Introduction
-For this toy, it uses photosensors to sense the light in front of tumbler’s eyes. For example, if you put your hand in front of the tumbler, it will make noise to let you know he is very angry and saying “don’t hide me!” or “get away from me!”. And when you let you hand leave, it will become normal. The switch and led is for showing the toy are opening or not. I am going to cut my drawing down and stick it on my 3D model.
+For this Helping Robot, I use four led on cat’s paws in order to show the stage that the robot is in. There are 3 stages of the robot which are closed, opened, high speed. And for how to output tapping on screen, I learn some knowledge about mobile screen and know that we can just use wire with digital output with a foil paper. So I just put the foil paper on the heart part of paw in order to make tap work. The heart part of paw should be electric. We can just use delay to simulate tap and out of the screen. We can just put this robot on the screen to finish the tapping task we want to.
 
 
 ## Sculpture
-For the Sculpture, I am trying to use Tinkercad to make a 3D model for my tumbler. I draw a simple version on paper at first and based on it I finished the model on Tinkercad.
-![Paper Example](https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/paper.JPG)
-![3D model front]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/front.png)
-![3D model back]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/back.png)
-![3D model right]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/right.png)
-![3D model left ](https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/left.png)
+For the Sculpture, I am trying to use Tinkercad to make a 3D model for my cat paw. I draw a simple version on paper at first and based on it I finished the model on Tinkercad. The heart part of the paw is a little higher than other parts, which makes it can touch the screen and led will not.
+![Draft]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/draft.JPG)
+![3D model front]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/front.png)
+![3D model up]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/up.png)
+![3D model under]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/under.png)
+
+![3D model right]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/right.png)
+![3D model left ]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/left.png)
 
 
 ## Code
 
-I use the blinking system to show the toy is work or not.
-![code]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/code.png)
+I use the blinking system to show the stage of robot. And use digital input and output to simulate tapping.
+## [Code]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/code.txt)
 ## Circuit
 
 * 1 - 220ohm resistors
-* 1 – 10Kohm resistors
+* 4 – 10Kohm resistors
 * 1 - Switch
-* 1 - Red LEDs
+* 4 - Red LEDs
 * 1 - Arduino UNO R3
-* 2 - Photosensors
-* 1 - Buzzer
-* 1 - 9V Power
-
-![General Circuit]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/arduino.png)
-![photosensors]( https://github.com/roman991203/CIM542/blob/master/Playful%20Interfaces/imgs/photosensor.png)
+* 1 - Wire for tapping
+* 1 - Foil paper
+![General Circuit]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/wire.png)
 
 ## Issues
-* Maybe I should do more things with my code, for example let photosensor involved in code
-* It is hard to put breadboard inside the 3D model
-* The photosensors might be not sensitive enough
+* The sensitivity between heart part and wire might not be good enough
+* This robot might be useless
+
