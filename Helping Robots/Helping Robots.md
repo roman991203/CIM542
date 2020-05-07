@@ -2,6 +2,7 @@
 
 ## Inspiration
 In our daily life, we always use our mobile phones by tapping on the screen. And there are also a lot of games based on tapping. Like Tap Titans and so on. However, it is a hard-working of a lot of tapping on phones and games. So I am trying to do a robot to help us tap on screen quickly to finish the task.
+
 ![inspiration]( https://github.com/roman991203/CIM542/blob/master/Helping%20Robots/img/Tap.jpg)
 
 
